@@ -1,3 +1,4 @@
+//要点：typeinfo
 #include <iostream>
 #include <typeinfo>
 

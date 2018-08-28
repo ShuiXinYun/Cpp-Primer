@@ -1,5 +1,6 @@
 //reads a string of characters including punctuation and writes what was read but with the punctuation removed.
 //要点：ispunct()检查字符是否为标点符号
+//for (auto i : s)
 #include <iostream>
 #include <string>
 

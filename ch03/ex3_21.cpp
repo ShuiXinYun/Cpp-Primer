@@ -1,6 +1,7 @@
 //
 //Redo the first exercise from § 3.3.3 (p. 105) using iterators.
-//
+//重点：for (auto it = vec.begin(); it != vec.end(); ++it)，指针
+//函数重载
 
 #include <vector>
 #include <iterator>

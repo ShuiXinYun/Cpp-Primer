@@ -1,11 +1,7 @@
-//
-//@Author  @PEZY @Yue Wang 
-//@Date    Aug. 2014 Jun.2015
-//@Brief
 // Read a sequence of words from cin and store the values a vector.
 // After you've read all the words, process the vector and change each word to uppercase.
 // Print the transformed elements, eight words to a line.
-//
+// 重点：toupper()和for遍历
 
 #include <iostream>
 #include <vector>

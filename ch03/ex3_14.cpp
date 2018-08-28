@@ -4,7 +4,7 @@
 //@Brief
 // read a sequence of ints from cin and
 // store those values in a vector.
-//
+//vecor 可变长度，pushback()
 
 #include <iostream>
 #include <vector>
